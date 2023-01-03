@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Gabe Newell - Strona główna</title>
+</head>
+<body>
+  <h1>Witaj na stronie o Gabe'u Newellu!</h1>
+  <p>Gabe Newell to założyciel i dyrektor generalny Valve Corporation, firmy zajmującej się tworzeniem gier i oprogramowania. Jest on również znany jako "Lord Gaben" wśród graczy na całym świecie.</p>
+  <h2>Odnośniki do podstron:</h2>
+  <ul>
+    <li><a href="/zycie-gabe-newella">Życie Gabe'a Newella</a></li>
+    <li><a href="/gry-valve">Gry Valve</a></li>
+    <li><a href="/turnieje-gabe-newella">Turnieje Gabe'a Newella</a></li>
+  </ul>
+</body>
+</html>
